@@ -11,10 +11,16 @@ class MainActivity2 : AppCompatActivity() {
         f3()
         f4()
         f5()
+        f6()
     }
 
     private fun f5() {
         //added f5
+
+    }
+
+    private fun f6() {
+        //added f6
     }
 
     private fun f4() {
