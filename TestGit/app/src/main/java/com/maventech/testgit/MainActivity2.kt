@@ -9,6 +9,11 @@ class MainActivity2 : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         f2()
         f3()
+        f4()
+    }
+
+    private fun f4() {
+        //added f4
     }
 
     private fun f3() {
